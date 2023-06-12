@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #todo-container {
+    margin-top: 20px;
+  }
+  
+  #todo-input {
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  #add-button {
+    padding: 5px 10px;
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  #todo-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+  }
+  
+  #todo-list li {
+    margin-bottom: 5px;
+  }
+  
+  #todo-list li button {
+    margin-left: 10px;
+  }
