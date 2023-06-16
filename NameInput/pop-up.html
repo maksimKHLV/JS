@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="open()"><p>Open</p></button>
+    <div id="modal" style="position: absolute; left: 100px;right: 0;top: 100px;bottom: 0; height: 200px; width: 400px; z-index: 2; display: none; background-color: aqua; justify-content: center; align-items: center; flex-direction: column;">
+        <h3>
+            Hello from Modal Window!
+        </h3>
+        <button style="width: 80%;" onclick="close()"><p>Close</p></button>
+    </div>
+    <script>
+        function open(){
+            alert('asd')
+            document.getElementById('modal').style.display = box;
+        }
+        function close(){
+            document.getElementById('modal').style.display = none;
+        }
+    </script>
+</body>
+</html>
