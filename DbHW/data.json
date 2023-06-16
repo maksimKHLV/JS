@@ -1,0 +1,21 @@
+[
+    {"Name": "Maksim", "Age": 16, "City": "Khirdalan"},
+    {"Name": "Aysel", "Age": 22, "City": "New-York"},
+    {"Name": "Konul", "Age": 22, "City": "Dubai"},
+    {"Name": "maga", "Age": 25, "City": "moskow"},
+    {"Name": "javid", "Age": 13, "City": "abu-dhabi"},
+    {"Name": "huseyin", "Age": 32, "City": "baku"},
+    {"Name": "james", "Age": 14, "City": "quba"},
+    {"Name": "ismail", "Age": 29, "City": "lobdon"},
+    {"Name": "araz", "Age": 21, "City": "paris"},
+    {"Name": "micky", "Age": 27, "City": "madrid"},
+    {"Name": "anrew", "Age": 32, "City": "doha"},
+    {"Name": "andre", "Age": 12, "City": "sheki"},
+    {"Name": "sten", "Age": 51, "City": "shusha"},
+    {"Name": "bruce-li", "Age": 17, "City": "pider"},
+    {"Name": "jecky", "Age": 18, "City": ""},
+    {"Name": "chan", "Age": 20, "City": "Dubai"},
+    {"Name": "li", "Age": 29, "City": "Dubai"},
+    {"Name": "ali", "Age": 30, "City": "Dubai"},
+    {"Name": "mikhail", "Age": 11, "City": "Dubai"}
+  ]
