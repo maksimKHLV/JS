@@ -1,0 +1,17 @@
+:root {
+    --app-height: calc(100vh - 1rem);
+    --app-width: calc(100vw - 1rem);
+}
+
+* {
+    box-sizing: border-box;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+}
+
+html,
+body,
+#root {
+    margin: 0;
+    padding: 0;
+}

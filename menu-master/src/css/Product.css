@@ -1,0 +1,21 @@
+
+.product {
+    margin: 0.2rem 0;
+    display: grid;
+    grid-template-columns: 50% 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    align-items: center;
+}
+
+.product :first-child ~ * {
+    text-align: center;
+}
+
+#img-icon {
+    display: flex;
+    justify-content: center;
+}
+
+#product-details::after {
+    content: "\003F";
+}

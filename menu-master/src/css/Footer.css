@@ -1,0 +1,22 @@
+
+.footer {
+    border-top: 1px solid gray;
+    color: white;
+    padding: 0 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#bt-footer {
+    height: 1.5rem;
+    background-color: teal;
+    border: 1px solid gray;
+    color: white;
+    border-radius: 10%;
+}
+
+#bt-footer:hover {
+    background-color: rgb(0, 150, 150);
+    box-shadow: gray 1px 1px;
+}

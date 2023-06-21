@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.olicards.com	TRUE	/	FALSE	1999999999	PHPSESSID	18fa1d411e8f5841c329ab96f12461b2
+

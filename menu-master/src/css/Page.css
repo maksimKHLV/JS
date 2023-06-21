@@ -1,0 +1,20 @@
+
+.page {
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+    border: 1px solid black;
+    height: var(--app-height);
+    width: calc(var(--app-height) * 0.7);
+    background-image: url("../img/wood_background.png");
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: fr;
+    grid-template-rows: 95% 5%;
+}
+
+@media screen and (max-width: 500px) {
+    .page {
+        width: var(--app-width);
+    }
+}
